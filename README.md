@@ -1,2 +1,2 @@
 ### La chimie des genres
-Webstie for Manon Benoit
+Website for Manon Benoit
